@@ -1,0 +1,10 @@
+C:\Users\eto\Desktop\KelimeTahminOyunu\KelimeTahminOyunuForm\bin\Release\KelimeTahminOyunuForm.exe.config
+C:\Users\eto\Desktop\KelimeTahminOyunu\KelimeTahminOyunuForm\bin\Release\KelimeTahminOyunuForm.exe
+C:\Users\eto\Desktop\KelimeTahminOyunu\KelimeTahminOyunuForm\bin\Release\KelimeTahminOyunuForm.pdb
+C:\Users\eto\Desktop\KelimeTahminOyunu\KelimeTahminOyunuForm\obj\Release\KelimeTahminOyunuForm.csprojAssemblyReference.cache
+C:\Users\eto\Desktop\KelimeTahminOyunu\KelimeTahminOyunuForm\obj\Release\KelimeTahminOyunuForm.Form1.resources
+C:\Users\eto\Desktop\KelimeTahminOyunu\KelimeTahminOyunuForm\obj\Release\KelimeTahminOyunuForm.Properties.Resources.resources
+C:\Users\eto\Desktop\KelimeTahminOyunu\KelimeTahminOyunuForm\obj\Release\KelimeTahminOyunuForm.csproj.GenerateResource.cache
+C:\Users\eto\Desktop\KelimeTahminOyunu\KelimeTahminOyunuForm\obj\Release\KelimeTahminOyunuForm.csproj.CoreCompileInputs.cache
+C:\Users\eto\Desktop\KelimeTahminOyunu\KelimeTahminOyunuForm\obj\Release\KelimeTahminOyunuForm.exe
+C:\Users\eto\Desktop\KelimeTahminOyunu\KelimeTahminOyunuForm\obj\Release\KelimeTahminOyunuForm.pdb
