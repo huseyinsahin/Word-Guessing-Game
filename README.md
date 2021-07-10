@@ -14,9 +14,8 @@ Oyun iki modda ve iki farklı puanlama sistemi ile oynanmaktadır.</br>
 
 ## Oyun Form Ekranı Gösterimi / Game Form Screen Display
 <p align="center">
-  <img src="https://github.com/huseyincatalbas/word-guessing-game/blob/master/images/form_tasar%C4%B1m%C4%B1.jpg" align="center">
+  <img src="https://github.com/huseyinsahin/word-guessing-game/blob/main/images/form_desing.png" align="center">
 </p>
-
 
 ## Kelime Tahmin Oyunu (Bilgisayar - İnsan) / Word Guessing Game (Computer - Human)
 Oyunda bilgisayar, kullanıcının sözlükten seçtiği bir kelimeyi en az tahminle bulmaya çalışmaktadır. Kullanıcı açılan form ekranından puanlama sistemini 
@@ -94,7 +93,7 @@ dönüştürmüş oluyoruz. (C# kodunda quick sort kullanılmakta)</br>
 2. Uzun kelimeden kısa kelimeye doğru ağacın oluşturulması için listeden sırayla okuma yapılır ve ağaca add işlemleri yapılır.</br>
 ***In order to form the tree from the long word to the short word, the list is read sequentially and the tree is added.***
 <p align="center">
-  <img src="https://github.com/huseyincatalbas/word-guessing-game/blob/master/images/ornek.JPG" align="center">
+  <img src="https://github.com/huseyinsahin/word-guessing-game/blob/main/images/example.png" align="center">
 </p>
 
 3. Sonuç olarak oluşan ağaçtan alınana her tahmindeki puana göre ilgili daldaki kelime tahmin olarak yazdırılacaktır. Bu ardışık ilerleme sonucu ya ağaça sonlanır, 
@@ -121,7 +120,7 @@ Kartezyen puan hesabı için,tutulmuş olan veya tutulmuş olduğu tahmin edilen
 ***For the Cartesian score calculation, the total value of how many times each letter of the word that is or is predicted to be involved is used in the calculated word.***
 
 <p align="center">
-  <img src="https://github.com/huseyincatalbas/word-guessing-game/blob/master/images/kartezyen_puan_hesaplama.JPG" align="center">
+  <img src="https://github.com/huseyinsahin/word-guessing-game/blob/main/images/cartesian_score_calculation.png" align="center">
 </p>
 
 * <b>Normal Puan Hesaplama / Normal Score Calculation</b></br>
