@@ -1,3 +1,15 @@
+## Katkıda Bulunanlar / Contributors
+ 
+| Yazılımcılar | Accounts |
+| ------ | ------ |
+| Hüseyin Şahin | https://github.com/huseyinsahin |
+| Aynur Nebioğlu | https://github.com/aynurnebioglu |
+| Ziya Özsoy | https://github.com/zozsoy |
+| Ertuğrul Kalkan | https://github.com/ertugrulklkn |
+| Hüseyin Çatalbaş | https://github.com/huseyincatalbas |
+| Burak Akıncıoğlu | ---------------------------------  |
+| Eray Haydar | --------------------------------- |
+
 # Kelime Tahmin Oyunu / Word Guessing Game
 Oyun iki modda ve iki farklı puanlama sistemi ile oynanmaktadır.</br>
 ***The game is played in two modes and with two different scoring systems.***
